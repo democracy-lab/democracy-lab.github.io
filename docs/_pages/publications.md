@@ -17,7 +17,7 @@ Placeholder text
 
 ### Journal Articles, Democracy Lab and Collaborators
 
-1. Daniel J. Story, Jo Guldi, Tim Hitchcock, Michelle Moravec. <b><u>[History’s Future in the Age of the Internet](https://academic.oup.com/ahr/article-abstract/125/4/1337/5933592?redirectedFrom=fulltext)</u></b>. 2020.
+1. Daniel J. Story, Jo Guldi, Tim Hitchcock, Michelle Moravec. **[History’s Future in the Age of the Internet](https://academic.oup.com/ahr/article-abstract/125/4/1337/5933592?redirectedFrom=fulltext)**. 2020.
 
 2. Jo Guldi. [Scholarly Infrastructure as Critical Argument: Nine principles in a preliminary survey of the bibliographic and critical values expressed by scholarly web-portals for visualizing data](http://www.digitalhumanities.org/dhq/vol/14/3/000463/000463.html). 2020.
 
